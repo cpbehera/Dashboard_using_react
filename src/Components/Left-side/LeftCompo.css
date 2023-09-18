@@ -1,0 +1,32 @@
+.left{
+    background: url(../../../public/Left-side-banner.png);
+    clip-path: polygon(0 0, 100% 0%, 85% 100%, 0% 100%);
+    width: 45vw;
+    height: 97vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    color: #fff;
+    padding-bottom: 20px;
+}
+.left h4{
+    font-size: 24px;
+    font-weight: 700;
+    letter-spacing: 1.5%;
+    text-transform: uppercase;
+    margin-left: 2rem;
+}
+.left h1{
+    text-align: center;
+    font-size: 72px;
+    font-weight: 700;
+}
+.left span{
+    margin: 0 .8rem;
+}
+.left span i{
+    font-size: 30px;
+}
+.left .social-icons{
+    text-align: center;
+}
