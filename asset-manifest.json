@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Dashboard_using_react/static/css/main.dc26fade.css",
+    "main.js": "/Dashboard_using_react/static/js/main.7c7eb749.js",
+    "static/js/787.545aecf5.chunk.js": "/Dashboard_using_react/static/js/787.545aecf5.chunk.js",
+    "static/media/Left-side-banner.png": "/Dashboard_using_react/static/media/Left-side-banner.d3b9204884dbe3066e46.png",
+    "index.html": "/Dashboard_using_react/index.html",
+    "main.dc26fade.css.map": "/Dashboard_using_react/static/css/main.dc26fade.css.map",
+    "main.7c7eb749.js.map": "/Dashboard_using_react/static/js/main.7c7eb749.js.map",
+    "787.545aecf5.chunk.js.map": "/Dashboard_using_react/static/js/787.545aecf5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc26fade.css",
+    "static/js/main.7c7eb749.js"
+  ]
+}
